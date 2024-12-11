@@ -44,5 +44,8 @@ body{
 .carImage{
   margin-top: -300px;
   width: 100%;
+  padding: 50px;
+  background-size: cover;
+  background-width: cover;
   
   }
