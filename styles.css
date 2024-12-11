@@ -43,5 +43,6 @@ body{
 
 .carImage{
   margin-top: -300px;
-  width: inherit;
+  width: 100%;
+  
   }
