@@ -43,4 +43,5 @@ body{
 
 .carImage{
   margin-top: -300px;
+  width: min-width;
   }
